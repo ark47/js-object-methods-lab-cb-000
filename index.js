@@ -9,7 +9,23 @@ class President {
   }
   
   veto() {
-    return 'NO!'
+    return 'NO!';
+  }
+  
+  passBill() {
+    return 'You can do that!';
+  }
+  
+  doCharity() {
+    return 'I like to help people.';
+  }
+  
+  conductPressInterview() {
+    return 'I am proud to be an American.';
+  }
+  
+  sayHi() {
+    `Hi, my name is ${this.name}. I am from ${this.homestate}. I represent the ${politcalParty}`
   }
   
 }
