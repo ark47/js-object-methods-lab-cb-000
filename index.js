@@ -1,7 +1,7 @@
 // code solution here
 
 class President {
-  constructor(name, politcalParty, yearsInOffice, homeState) {
+  constructor(name, politicalParty, yearsInOffice, homeState) {
     this.name = name;
     this.politcalParty = politcalParty;
     this.yearsInOffice = yearsInOffice;
