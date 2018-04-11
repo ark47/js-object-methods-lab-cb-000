@@ -25,7 +25,7 @@ class President {
   }
   
   sayHi() {
-    `Hi, my name is ${this.name}. I am from ${this.homestate}. I represent the ${this.politcalParty}, and was in office ${this.yearsInOffice}.`
+    `Hi, my name is ${this.name}. I am from ${this.homeState}. I represent the ${this.politcalParty}, and was in office ${this.yearsInOffice}.`
   }
   
 }
